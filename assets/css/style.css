@@ -1,0 +1,98 @@
+body {
+  background-color: rgb(141, 141, 141);
+}
+
+
+/*portfolio*/
+h1 {
+  text-align: center;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+
+
+
+h1, h2, h3, h4 {
+  font-family: 'Dosis', sans-serif;
+}
+
+
+
+a.home-btn:hover {
+  color: rgb(240, 20, 20);
+  text-decoration: none;
+;
+}
+
+.home-btn {
+  color: white;
+  background-color: black;
+  padding: 30px;
+  font-family: 'Dosis', sans-serif;
+  cursor: cell;
+}
+
+.navbar {
+  background-color: rgb(100, 100, 100);
+  padding-bottom: 0;
+  padding-top: 0;
+}
+
+.nav-list {
+  font-family: 'Dosis', sans-serif;
+  padding: 3px 15px;
+  margin: 27px 0;
+  border-right: 1.5px solid white;
+  color: white;
+  transition: .5s;
+}
+
+a.nav-list:hover {
+  color: rgb(63, 63, 63);
+  text-decoration: none;
+  cursor: cell;
+}
+
+#contact {
+  border-right: none;
+}
+
+.about-me {
+  position: relative;
+  background-color: white;
+  border: 2px solid rgb(63, 63, 63);
+  margin-top: 40px;
+  padding: 20px;
+}
+
+
+
+
+.footer {
+  text-align: center;
+  font-family: 'Dosis', sans-serif;
+  font-size: 20px;
+  background-color: rgb(63, 63, 63);
+  padding: 20px 0px;
+  color: white;
+  margin-top: 40px;
+}
+
+.form-labels {
+  font-family: 'Dosis', sans-serif;
+}
+
+.btn-primary {
+  background-color: black;
+}
+
+.btn-primary:hover {
+  background-color: rgb(61, 61, 150);
+}
+
+.form-check {
+  margin-bottom: 20px;
+}
